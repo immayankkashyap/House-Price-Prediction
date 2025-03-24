@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Regression Model to predict House Price
+Experimenting with different Regression Models to predict House Price
